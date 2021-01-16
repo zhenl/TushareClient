@@ -7,6 +7,9 @@
     <Version>0.1.0</Version>
     <Authors>ZHEN LEI</Authors>
     <PackageLicenseExpression>MIT</PackageLicenseExpression>
+    <PackageProjectUrl>https://github.com/zhenl/TushareClient</PackageProjectUrl>
+    <RepositoryUrl>https://github.com/zhenl/TushareClient</RepositoryUrl>
+    <RepositoryType>github</RepositoryType>
   </PropertyGroup>
 
   <ItemGroup>
