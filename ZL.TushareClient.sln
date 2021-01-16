@@ -5,7 +5,12 @@ VisualStudioVersion = 16.0.30804.86
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ZL.TushareClient.Core", "ZL.TushareClient.Core\ZL.TushareClient.Core.csproj", "{18B90983-B0B2-4A8C-9405-1D3E5C5C6530}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ZL.TuShareClient.Console", "ZL.TuShareClient.Console\ZL.TuShareClient.Console.csproj", "{AF3A9AFF-6689-459C-B103-3BAC4DB797D5}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ZL.TuShareClient.Console", "ZL.TuShareClient.Console\ZL.TuShareClient.Console.csproj", "{AF3A9AFF-6689-459C-B103-3BAC4DB797D5}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{F762657E-91B4-40A2-BE09-670C7D23ED45}"
+	ProjectSection(SolutionItems) = preProject
+		README.md = README.md
+	EndProjectSection
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
