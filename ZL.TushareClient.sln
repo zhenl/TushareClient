@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30804.86
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ZL.TushareClient.Core", "ZL.TushareClient.Core\ZL.TushareClient.Core.csproj", "{18B90983-B0B2-4A8C-9405-1D3E5C5C6530}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ZL.TuShareClient.Console", "ZL.TuShareClient.Console\ZL.TuShareClient.Console.csproj", "{AF3A9AFF-6689-459C-B103-3BAC4DB797D5}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{18B90983-B0B2-4A8C-9405-1D3E5C5C6530}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{18B90983-B0B2-4A8C-9405-1D3E5C5C6530}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{18B90983-B0B2-4A8C-9405-1D3E5C5C6530}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{18B90983-B0B2-4A8C-9405-1D3E5C5C6530}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AF3A9AFF-6689-459C-B103-3BAC4DB797D5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AF3A9AFF-6689-459C-B103-3BAC4DB797D5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AF3A9AFF-6689-459C-B103-3BAC4DB797D5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AF3A9AFF-6689-459C-B103-3BAC4DB797D5}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {7950AF15-9549-4E09-968F-80D2B02F7FC1}
+	EndGlobalSection
+EndGlobal
